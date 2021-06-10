@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h4 align="center"><samp> g i t h u b   p r o f i l e </samp></h4>
 
 <p align="center">
-  <img width="250" src="https://preview.redd.it/0bb6dqsiab451.gif?s=b0c65596a54a30708da26669da6e79abf3be1680">
+  <img width="200%" src="https://preview.redd.it/0bb6dqsiab451.gif?s=b0c65596a54a30708da26669da6e79abf3be1680">
 </p>
 </br>
 
