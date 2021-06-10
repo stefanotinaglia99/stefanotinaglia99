@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### g i t h u b * p r o f i l e
+<center>
+  ### g i t h u b   p r o f i l e
+</center>
 <img src="https://preview.redd.it/0bb6dqsiab451.gif?s=b0c65596a54a30708da26669da6e79abf3be1680" align="center" />
 </br>
 
