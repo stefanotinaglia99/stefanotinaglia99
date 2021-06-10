@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **stefanotinaglia99/stefanotinaglia99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://preview.redd.it/0bb6dqsiab451.gif?s=b0c65596a54a30708da26669da6e79abf3be1680" align="center" style="width: 60%" />
+</br>
